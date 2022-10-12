@@ -1,0 +1,25 @@
+:host{
+    div{
+        width: 100vw;
+        height: 400vw;
+        form{
+            width: 400px;
+            margin: auto;
+            /*display: flex;
+            align-items: center;
+            justify-content: center;*/
+            label{
+                width: fit-content;
+                display: block;
+                margin-bottom: -10px;
+                margin-left: 5px;
+                background-color: white;
+                position: relative;
+            }
+            input{
+               
+                
+            }
+        }
+    }
+}
